@@ -1,5 +1,6 @@
 # DailyReport
-A command line application to send daily report 
+
+A command line application to send daily report with R
 
 # Usage
 
